@@ -1,3 +1,3 @@
 # GitSite
 
-<a href="https://dolfino.github.io/GitSite/"> Executar o exercício </a>
+<a href="https://github.com/Dolfino/GitSite/blob/main/html-css/ex001/index.html"> Executar o exercício </a>
